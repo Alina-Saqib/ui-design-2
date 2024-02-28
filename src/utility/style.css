@@ -1,0 +1,147 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Outfit" !important;
+}
+
+body {
+  background-color: #f7f9fb;
+}
+
+h2 {
+  font-size: 24px !important;
+  font-weight: 600 !important;
+  color: #1f1f1f;
+}
+
+.layout-main-flex {
+  display: flex;
+  background-color: #f7f9fb;
+}
+
+.layout-main {
+  margin-top: 100px;
+  width: 81%;
+  background-color: #f7f9fb;
+}
+
+
+@media (max-width: 768px) {
+  .layout-main {
+    margin-top: 100px;
+    width: 100%;
+    background-color: #f7f9fb;
+  }
+}
+
+.Project--span {
+  color: #363636;
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: "Outfit";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 250%;
+}
+
+.slickSliderMain img {
+  width: 100%;
+}
+
+.pyramid {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  -webkit-clip-path: polygon(50% 0, 100% 100%, 0 100%);
+  clip-path: polygon(50% 0, 100% 100%, 0 100%);
+  transform: rotate(180deg);
+  position: relative;
+}
+
+.pyramid__section {
+  flex: 1 1 100%;
+  height: 44px;
+}
+
+.funnelChartDiagram {
+  position: relative;
+}
+
+.pyramidAfterForFunnelExact {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 18px;
+  background: white;
+}
+
+.hoverColorWhite:hover {
+  color: white !important;
+}
+
+.borderRadius {
+  border-radius: 12px !important;
+}
+
+.brokerCatalogMain::-webkit-scrollbar {
+  width: 5px;
+}
+
+.brokerCatalogMain::-webkit-scrollbar-track {
+  background: rgba(33, 150, 243, 0.4);
+}
+
+.brokerCatalogMain::-webkit-scrollbar-thumb {
+  background: rgba(33, 150, 243, 1);
+  border-radius: 10px;
+  height: 200px;
+}
+
+@media (min-width: 1900px) {
+  .pyramid {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    height: 220px;
+    -webkit-clip-path: polygon(50% 0, 100% 100%, 0 100%);
+    clip-path: polygon(50% 0, 100% 100%, 0 100%);
+    transform: rotate(180deg);
+  }
+
+  .pyramid__section {
+    flex: 1 1 100%;
+  }
+  .layout-main {
+    width: 84%;
+  }
+
+  .layout-nav {
+    width: 16%;
+  }
+}
+
+@media (max-width: 1600px) {
+  .informactionPropiaText {
+    font-size: 10px !important;
+  }
+  .informactionPropiaContainer .uiCardMain {
+    padding: 30px 20px !important;
+  }
+  .informactionPropiaImg {
+    max-width: 40px;
+  }
+  .funnelChartLabelMainFlex {
+    display: block !important;
+  }
+  .funnelChartDiagram {
+    max-width: 50% !important;
+  }
+  .funnelChartLabels {
+    max-width: 50% !important;
+  }
+  .funnelChartLabelSingle {
+    max-width: 100% !important;
+  }
+}

@@ -1,0 +1,1036 @@
+{
+  "listData": [
+    {
+      "id": "1",
+      "title": "One Propiedades",
+      "description": "Sen Jose Maria Escriva De Balaguer N 13105 of, 707, La Dehesa, Persidente Riesco 3198, Local D, Las Condes",
+      "email": "info@oneprop.cl",
+      "phone": "+56 2 22165 800",
+      "attach": "https://oneprop.cl/",
+      "imgUrl": "assets/company1.png",
+      "comunaDonde": [
+        {
+          "id": "1",
+          "count": "02",
+          "title": "Oficinas",
+          "imgUrl": "/assets/varFicha1.png"
+        },
+        {
+          "id": "2",
+          "count": "876",
+          "title": "Propiedades",
+          "imgUrl": "/assets/varFicha2.png"
+        },
+        {
+          "id": "3",
+          "count": "04",
+          "title": "Ejecutivos",
+          "imgUrl": "/assets/varFicha3.png"
+        },
+        {
+          "id": "4",
+          "count": "12",
+          "title": "Anos",
+          "imgUrl": "/assets/varFicha4.png"
+        }
+      ],
+      "comunaDondeTable": [
+        {
+          "id": "1",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Juan Carlos Latorre",
+          "email": "jclatorre@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "2",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Maira Jose Garcia",
+          "email": "mjgarcia@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "3",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Pedro Medina    ",
+          "email": "pmedina@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "4",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Claudio Palma",
+          "email": "cpalma@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "5",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Maira Jose Garcia",
+          "email": "mjgarcia@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "6",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Pedro Medina",
+          "email": "pmedina@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "7",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Claudio Palma",
+          "email": "cpalma@welink.cl",
+          "phone": "+569 1 393 994"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Lavalsil",
+      "description": "Sen Jose Maria Escriva De Balaguer N 13105 of, 707, La Dehesa, Persidente Riesco 3198, Local D, Las Condes",
+      "email": "info@oneprop.cl",
+      "phone": "+56 2 22165 800",
+      "attach": "https://oneprop.cl/",
+      "imgUrl": "assets/company2.png",
+      "comunaDonde": [
+        {
+          "id": "1",
+          "count": "02",
+          "title": "Oficinas",
+          "imgUrl": "/assets/varFicha1.png"
+        },
+        {
+          "id": "2",
+          "count": "876",
+          "title": "Propiedades",
+          "imgUrl": "/assets/varFicha2.png"
+        },
+        {
+          "id": "3",
+          "count": "04",
+          "title": "Ejecutivos",
+          "imgUrl": "/assets/varFicha3.png"
+        },
+        {
+          "id": "4",
+          "count": "12",
+          "title": "Anos",
+          "imgUrl": "/assets/varFicha4.png"
+        }
+      ],
+      "comunaDondeTable": [
+        {
+          "id": "1",
+          "imgUrl": "assets/avatar2.png",
+          "title": "Juan Carlos Latorre",
+          "email": "jclatorre@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "2",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Maira Jose Garcia",
+          "email": "mjgarcia@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "3",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Pedro Medina    ",
+          "email": "pmedina@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "4",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Claudio Palma",
+          "email": "cpalma@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "5",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Maira Jose Garcia",
+          "email": "mjgarcia@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "6",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Pedro Medina",
+          "email": "pmedina@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "7",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Claudio Palma",
+          "email": "cpalma@welink.cl",
+          "phone": "+569 1 393 994"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Nieny",
+      "description": "Sen Jose Maria Escriva De Balaguer N 13105 of, 707, La Dehesa, Persidente Riesco 3198, Local D, Las Condes",
+      "email": "info@oneprop.cl",
+      "phone": "+56 2 22165 800",
+      "attach": "https://oneprop.cl/",
+      "imgUrl": "assets/company1.png",
+      "comunaDonde": [
+        {
+          "id": "1",
+          "count": "02",
+          "title": "Oficinas",
+          "imgUrl": "/assets/varFicha1.png"
+        },
+        {
+          "id": "2",
+          "count": "876",
+          "title": "Propiedades",
+          "imgUrl": "/assets/varFicha2.png"
+        },
+        {
+          "id": "3",
+          "count": "04",
+          "title": "Ejecutivos",
+          "imgUrl": "/assets/varFicha3.png"
+        },
+        {
+          "id": "4",
+          "count": "12",
+          "title": "Anos",
+          "imgUrl": "/assets/varFicha4.png"
+        }
+      ],
+      "comunaDondeTable": [
+        {
+          "id": "1",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Juan Carlos Latorre",
+          "email": "jclatorre@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "2",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Maira Jose Garcia",
+          "email": "mjgarcia@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "3",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Pedro Medina    ",
+          "email": "pmedina@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "4",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Claudio Palma",
+          "email": "cpalma@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "5",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Maira Jose Garcia",
+          "email": "mjgarcia@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "6",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Pedro Medina",
+          "email": "pmedina@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "7",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Claudio Palma",
+          "email": "cpalma@welink.cl",
+          "phone": "+569 1 393 994"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "We Link",
+      "description": "Sen Jose Maria Escriva De Balaguer N 13105 of, 707, La Dehesa, Persidente Riesco 3198, Local D, Las Condes",
+      "email": "info@oneprop.cl",
+      "phone": "+56 2 22165 800",
+      "attach": "https://oneprop.cl/",
+      "imgUrl": "assets/company3.png",
+      "comunaDonde": [
+        {
+          "id": "1",
+          "count": "02",
+          "title": "Oficinas",
+          "imgUrl": "/assets/varFicha1.png"
+        },
+        {
+          "id": "2",
+          "count": "876",
+          "title": "Propiedades",
+          "imgUrl": "/assets/varFicha2.png"
+        },
+        {
+          "id": "3",
+          "count": "04",
+          "title": "Ejecutivos",
+          "imgUrl": "/assets/varFicha3.png"
+        },
+        {
+          "id": "4",
+          "count": "12",
+          "title": "Anos",
+          "imgUrl": "/assets/varFicha4.png"
+        }
+      ],
+      "comunaDondeTable": [
+        {
+          "id": "1",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Juan Carlos Latorre",
+          "email": "jclatorre@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "2",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Maira Jose Garcia",
+          "email": "mjgarcia@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "3",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Pedro Medina    ",
+          "email": "pmedina@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "4",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Claudio Palma",
+          "email": "cpalma@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "5",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Maira Jose Garcia",
+          "email": "mjgarcia@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "6",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Pedro Medina",
+          "email": "pmedina@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "7",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Claudio Palma",
+          "email": "cpalma@welink.cl",
+          "phone": "+569 1 393 994"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "One Propiedades",
+      "description": "Sen Jose Maria Escriva De Balaguer N 13105 of, 707, La Dehesa, Persidente Riesco 3198, Local D, Las Condes",
+      "email": "info@oneprop.cl",
+      "phone": "+56 2 22165 800",
+      "attach": "https://oneprop.cl/",
+      "imgUrl": "assets/company3.png",
+      "comunaDonde": [
+        {
+          "id": "1",
+          "count": "02",
+          "title": "Oficinas",
+          "imgUrl": "/assets/varFicha1.png"
+        },
+        {
+          "id": "2",
+          "count": "876",
+          "title": "Propiedades",
+          "imgUrl": "/assets/varFicha2.png"
+        },
+        {
+          "id": "3",
+          "count": "04",
+          "title": "Ejecutivos",
+          "imgUrl": "/assets/varFicha3.png"
+        },
+        {
+          "id": "4",
+          "count": "12",
+          "title": "Anos",
+          "imgUrl": "/assets/varFicha4.png"
+        }
+      ],
+      "comunaDondeTable": [
+        {
+          "id": "1",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Juan Carlos Latorre",
+          "email": "jclatorre@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "2",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Maira Jose Garcia",
+          "email": "mjgarcia@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "3",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Pedro Medina    ",
+          "email": "pmedina@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "4",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Claudio Palma",
+          "email": "cpalma@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "5",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Maira Jose Garcia",
+          "email": "mjgarcia@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "6",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Pedro Medina",
+          "email": "pmedina@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "7",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Claudio Palma",
+          "email": "cpalma@welink.cl",
+          "phone": "+569 1 393 994"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Lavalsil",
+      "description": "Sen Jose Maria Escriva De Balaguer N 13105 of, 707, La Dehesa, Persidente Riesco 3198, Local D, Las Condes",
+      "email": "info@oneprop.cl",
+      "phone": "+56 2 22165 800",
+      "attach": "https://oneprop.cl/",
+      "imgUrl": "assets/company2.png",
+      "comunaDonde": [
+        {
+          "id": "1",
+          "count": "02",
+          "title": "Oficinas",
+          "imgUrl": "/assets/varFicha1.png"
+        },
+        {
+          "id": "2",
+          "count": "876",
+          "title": "Propiedades",
+          "imgUrl": "/assets/varFicha2.png"
+        },
+        {
+          "id": "3",
+          "count": "04",
+          "title": "Ejecutivos",
+          "imgUrl": "/assets/varFicha3.png"
+        },
+        {
+          "id": "4",
+          "count": "12",
+          "title": "Anos",
+          "imgUrl": "/assets/varFicha4.png"
+        }
+      ],
+      "comunaDondeTable": [
+        {
+          "id": "1",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Juan Carlos Latorre",
+          "email": "jclatorre@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "2",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Maira Jose Garcia",
+          "email": "mjgarcia@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "3",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Pedro Medina    ",
+          "email": "pmedina@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "4",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Claudio Palma",
+          "email": "cpalma@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "5",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Maira Jose Garcia",
+          "email": "mjgarcia@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "6",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Pedro Medina",
+          "email": "pmedina@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "7",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Claudio Palma",
+          "email": "cpalma@welink.cl",
+          "phone": "+569 1 393 994"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Nieny",
+      "description": "Sen Jose Maria Escriva De Balaguer N 13105 of, 707, La Dehesa, Persidente Riesco 3198, Local D, Las Condes",
+      "email": "info@oneprop.cl",
+      "phone": "+56 2 22165 800",
+      "attach": "https://oneprop.cl/",
+      "imgUrl": "assets/company1.png",
+      "comunaDonde": [
+        {
+          "id": "1",
+          "count": "02",
+          "title": "Oficinas",
+          "imgUrl": "/assets/varFicha1.png"
+        },
+        {
+          "id": "2",
+          "count": "876",
+          "title": "Propiedades",
+          "imgUrl": "/assets/varFicha2.png"
+        },
+        {
+          "id": "3",
+          "count": "04",
+          "title": "Ejecutivos",
+          "imgUrl": "/assets/varFicha3.png"
+        },
+        {
+          "id": "4",
+          "count": "12",
+          "title": "Anos",
+          "imgUrl": "/assets/varFicha4.png"
+        }
+      ],
+      "comunaDondeTable": [
+        {
+          "id": "1",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Juan Carlos Latorre",
+          "email": "jclatorre@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "2",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Maira Jose Garcia",
+          "email": "mjgarcia@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "3",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Pedro Medina    ",
+          "email": "pmedina@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "4",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Claudio Palma",
+          "email": "cpalma@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "5",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Maira Jose Garcia",
+          "email": "mjgarcia@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "6",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Pedro Medina",
+          "email": "pmedina@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "7",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Claudio Palma",
+          "email": "cpalma@welink.cl",
+          "phone": "+569 1 393 994"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "We Link",
+      "description": "Sen Jose Maria Escriva De Balaguer N 13105 of, 707, La Dehesa, Persidente Riesco 3198, Local D, Las Condes",
+      "email": "info@oneprop.cl",
+      "phone": "+56 2 22165 800",
+      "attach": "https://oneprop.cl/",
+      "imgUrl": "assets/company3.png",
+      "comunaDonde": [
+        {
+          "id": "1",
+          "count": "02",
+          "title": "Oficinas",
+          "imgUrl": "/assets/varFicha1.png"
+        },
+        {
+          "id": "2",
+          "count": "876",
+          "title": "Propiedades",
+          "imgUrl": "/assets/varFicha2.png"
+        },
+        {
+          "id": "3",
+          "count": "04",
+          "title": "Ejecutivos",
+          "imgUrl": "/assets/varFicha3.png"
+        },
+        {
+          "id": "4",
+          "count": "12",
+          "title": "Anos",
+          "imgUrl": "/assets/varFicha4.png"
+        }
+      ],
+      "comunaDondeTable": [
+        {
+          "id": "1",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Juan Carlos Latorre",
+          "email": "jclatorre@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "2",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Maira Jose Garcia",
+          "email": "mjgarcia@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "3",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Pedro Medina    ",
+          "email": "pmedina@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "4",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Claudio Palma",
+          "email": "cpalma@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "5",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Maira Jose Garcia",
+          "email": "mjgarcia@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "6",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Pedro Medina",
+          "email": "pmedina@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "7",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Claudio Palma",
+          "email": "cpalma@welink.cl",
+          "phone": "+569 1 393 994"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "One Propiedades",
+      "description": "Sen Jose Maria Escriva De Balaguer N 13105 of, 707, La Dehesa, Persidente Riesco 3198, Local D, Las Condes",
+      "email": "info@oneprop.cl",
+      "phone": "+56 2 22165 800",
+      "attach": "https://oneprop.cl/",
+      "imgUrl": "assets/company1.png",
+      "comunaDonde": [
+        {
+          "id": "1",
+          "count": "02",
+          "title": "Oficinas",
+          "imgUrl": "/assets/varFicha1.png"
+        },
+        {
+          "id": "2",
+          "count": "876",
+          "title": "Propiedades",
+          "imgUrl": "/assets/varFicha2.png"
+        },
+        {
+          "id": "3",
+          "count": "04",
+          "title": "Ejecutivos",
+          "imgUrl": "/assets/varFicha3.png"
+        },
+        {
+          "id": "4",
+          "count": "12",
+          "title": "Anos",
+          "imgUrl": "/assets/varFicha4.png"
+        }
+      ],
+      "comunaDondeTable": [
+        {
+          "id": "1",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Juan Carlos Latorre",
+          "email": "jclatorre@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "2",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Maira Jose Garcia",
+          "email": "mjgarcia@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "3",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Pedro Medina    ",
+          "email": "pmedina@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "4",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Claudio Palma",
+          "email": "cpalma@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "5",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Maira Jose Garcia",
+          "email": "mjgarcia@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "6",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Pedro Medina",
+          "email": "pmedina@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "7",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Claudio Palma",
+          "email": "cpalma@welink.cl",
+          "phone": "+569 1 393 994"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Lavalsil",
+      "description": "Sen Jose Maria Escriva De Balaguer N 13105 of, 707, La Dehesa, Persidente Riesco 3198, Local D, Las Condes",
+      "email": "info@oneprop.cl",
+      "phone": "+56 2 22165 800",
+      "attach": "https://oneprop.cl/",
+      "imgUrl": "assets/company2.png",
+      "comunaDonde": [
+        {
+          "id": "1",
+          "count": "02",
+          "title": "Oficinas",
+          "imgUrl": "/assets/varFicha1.png"
+        },
+        {
+          "id": "2",
+          "count": "876",
+          "title": "Propiedades",
+          "imgUrl": "/assets/varFicha2.png"
+        },
+        {
+          "id": "3",
+          "count": "04",
+          "title": "Ejecutivos",
+          "imgUrl": "/assets/varFicha3.png"
+        },
+        {
+          "id": "4",
+          "count": "12",
+          "title": "Anos",
+          "imgUrl": "/assets/varFicha4.png"
+        }
+      ],
+      "comunaDondeTable": [
+        {
+          "id": "1",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Juan Carlos Latorre",
+          "email": "jclatorre@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "2",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Maira Jose Garcia",
+          "email": "mjgarcia@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "3",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Pedro Medina    ",
+          "email": "pmedina@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "4",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Claudio Palma",
+          "email": "cpalma@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "5",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Maira Jose Garcia",
+          "email": "mjgarcia@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "6",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Pedro Medina",
+          "email": "pmedina@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "7",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Claudio Palma",
+          "email": "cpalma@welink.cl",
+          "phone": "+569 1 393 994"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Nieny",
+      "description": "Sen Jose Maria Escriva De Balaguer N 13105 of, 707, La Dehesa, Persidente Riesco 3198, Local D, Las Condes",
+      "email": "info@oneprop.cl",
+      "phone": "+56 2 22165 800",
+      "attach": "https://oneprop.cl/",
+      "imgUrl": "assets/company1.png",
+      "comunaDonde": [
+        {
+          "id": "1",
+          "count": "02",
+          "title": "Oficinas",
+          "imgUrl": "/assets/varFicha1.png"
+        },
+        {
+          "id": "2",
+          "count": "876",
+          "title": "Propiedades",
+          "imgUrl": "/assets/varFicha2.png"
+        },
+        {
+          "id": "3",
+          "count": "04",
+          "title": "Ejecutivos",
+          "imgUrl": "/assets/varFicha3.png"
+        },
+        {
+          "id": "4",
+          "count": "12",
+          "title": "Anos",
+          "imgUrl": "/assets/varFicha4.png"
+        }
+      ],
+      "comunaDondeTable": [
+        {
+          "id": "1",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Juan Carlos Latorre",
+          "email": "jclatorre@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "2",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Maira Jose Garcia",
+          "email": "mjgarcia@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "3",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Pedro Medina    ",
+          "email": "pmedina@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "4",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Claudio Palma",
+          "email": "cpalma@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "5",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Maira Jose Garcia",
+          "email": "mjgarcia@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "6",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Pedro Medina",
+          "email": "pmedina@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "7",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Claudio Palma",
+          "email": "cpalma@welink.cl",
+          "phone": "+569 1 393 994"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "We Link",
+      "description": "Sen Jose Maria Escriva De Balaguer N 13105 of, 707, La Dehesa, Persidente Riesco 3198, Local D, Las Condes",
+      "email": "info@oneprop.cl",
+      "phone": "+56 2 22165 800",
+      "attach": "https://oneprop.cl/",
+      "imgUrl": "assets/company3.png",
+      "comunaDonde": [
+        {
+          "id": "1",
+          "count": "02",
+          "title": "Oficinas",
+          "imgUrl": "/assets/varFicha1.png"
+        },
+        {
+          "id": "2",
+          "count": "876",
+          "title": "Propiedades",
+          "imgUrl": "/assets/varFicha2.png"
+        },
+        {
+          "id": "3",
+          "count": "04",
+          "title": "Ejecutivos",
+          "imgUrl": "/assets/varFicha3.png"
+        },
+        {
+          "id": "4",
+          "count": "12",
+          "title": "Anos",
+          "imgUrl": "/assets/varFicha4.png"
+        }
+      ],
+      "comunaDondeTable": [
+        {
+          "id": "1",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Juan Carlos Latorre",
+          "email": "jclatorre@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "2",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Maira Jose Garcia",
+          "email": "mjgarcia@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "3",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Pedro Medina    ",
+          "email": "pmedina@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "4",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Claudio Palma",
+          "email": "cpalma@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "5",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Maira Jose Garcia",
+          "email": "mjgarcia@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "6",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Pedro Medina",
+          "email": "pmedina@welink.cl",
+          "phone": "+569 1 393 994"
+        },
+        {
+          "id": "7",
+          "imgUrl": "assets/avatar1.png",
+          "title": "Claudio Palma",
+          "email": "cpalma@welink.cl",
+          "phone": "+569 1 393 994"
+        }
+      ]
+    }
+  ]
+}
